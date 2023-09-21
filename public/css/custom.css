@@ -1,0 +1,9 @@
+
+/* Preview password  */
+.toggle-btn {
+    position: absolute;
+    top: 60%;
+    right: 20px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
